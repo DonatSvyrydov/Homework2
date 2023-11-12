@@ -1,0 +1,33 @@
+.backgroundimg{
+    background-image: url(Dnd\ pictures/Background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.navlinks:hover{
+    color: white;
+}
+.navlinks:visited{
+    color: brown;
+}
+.body-font{
+    font-family: Georgia, 'Times New Roman', Times, serif;;
+    font-weight: 700;
+    color: cornsilk;
+    text-shadow: 2px 2px 5px black;
+}
+.rule-link:hover{
+color: white;
+}
+.rule-link:visited{
+    color: brown;
+}
+.rule-link{
+    border: 1px orange;
+    border-style: solid;
+}
+.footer-links:hover{
+    color: white;
+}
+.footer-links:visited{
+    color: brown;
+}
